@@ -5,4 +5,5 @@
 ## container
 
 * qt-creator-onedark
+* keil5-dark
 
